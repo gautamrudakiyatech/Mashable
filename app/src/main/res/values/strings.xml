@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Mashable</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="december_03_2023">December 03, 2023</string>
+    <string name="categories">Categories</string>
+    <string name="next">NEXT</string>
+    <string name="daily_update">Daily Update</string>
+    <string name="navigation_drawer_open"/>
+    <string name="navigation_drawer_close"/>
+    <string name="talknewz">Mashable</string>
+
+    <string name="facebook_app_id">1296532571307507</string>
+    <string name="facebook_client_token">5ae6f2d74aff27b5e4dae21ff80f1fd3</string>
+    <string name="APP_ID">a666806b442bc0</string>
+    <string name="APP_KEY">a3ce4d63dd6e2392660ed3a2684cc3176</string>
+
+</resources>
