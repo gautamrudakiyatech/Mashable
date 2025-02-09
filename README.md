@@ -121,7 +121,7 @@ This Android app scrapes the latest articles from Mashable India using JSoup. It
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/web-scraping-mashable.git
+   git clone https://github.com/username/mashable.git
    ```
 2. Open in Android Studio.
 3. Install dependencies and run the app on your Android device or emulator.
