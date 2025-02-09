@@ -133,3 +133,15 @@ This Android app scrapes the latest articles from Mashable India using JSoup. It
 3. Enjoy smooth loading animations with Shimmer and image loading with Picasso.
 
 ---
+
+![3](https://github.com/user-attachments/assets/1a08afef-7357-4783-9304-b664c0f46d72)
+
+---
+
+![2](https://github.com/user-attachments/assets/2c7f5947-a1bb-4d91-86df-6c0fd1534162)
+
+---
+
+![1](https://github.com/user-attachments/assets/c62b744d-e1d4-4873-84a8-9daddf288cee)
+
+---
