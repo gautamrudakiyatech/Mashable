@@ -55,7 +55,7 @@ Follow the steps below to set up and run the app:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/web-scraping-mashable.git
+   git clone https://github.com/username/mashable.git
    ```
 
 2. **Open the project in Android Studio**.
